@@ -2,7 +2,7 @@
 
 # 强化学习-动态规划-DP
 
-> 作者：YJLAugus  博客： https://www.cnblogs.com/yjlaugus
+> 作者：YJLAugus  博客： https://www.cnblogs.com/yjlaugus 项目地址：https://github.com/YJLAugus/Reinforcement-Learning-Notes，如果感觉对您有所帮助，烦请点个⭐Star。
 
 这里讲动态规划，主要是用动态规划来解决MDP的中最优的策略，并得出最优的价值函数。这节主要介绍两中动态规划的方法，一个是**策略迭代**方法，另一个是**价值迭代**方法。
 

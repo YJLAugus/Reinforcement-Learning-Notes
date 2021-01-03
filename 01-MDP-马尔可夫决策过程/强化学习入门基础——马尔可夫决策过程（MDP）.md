@@ -1,6 +1,6 @@
 # 强化学习入门基础-马尔达夫决策过程（MDP）
 
-> 作者：YJLAugus  博客： https://www.cnblogs.com/yjlaugus
+> 作者：YJLAugus  博客： https://www.cnblogs.com/yjlaugus 项目地址：https://github.com/YJLAugus/Reinforcement-Learning-Notes，如果感觉对您有所帮助，烦请点个⭐Star。
 
 ## MDP背景介绍
 
