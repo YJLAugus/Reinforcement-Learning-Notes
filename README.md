@@ -3,7 +3,7 @@
 ## 在线阅读：https://www.yuque.com/yjlaugus/reinforcement-learning-notes
 ## 文档整合汇编PDF下载：
 
-**百度网盘：** 链接: https://pan.baidu.com/s/1sN3H9jeXoj_vAsMtxeEhjQ 提取码: hev2
+**百度网盘：** 链接: https://pan.baidu.com/s/19QsCpRG8sN3zfzsliuromQ 提取码: xm8w
 
 **Google Drive：** https://drive.google.com/file/d/1ZV0a6LdMo7Op0vAXvWTPnE3NYz60DRV-/view?usp=sharing
 
