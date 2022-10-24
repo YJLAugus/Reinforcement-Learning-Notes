@@ -1,5 +1,7 @@
 
-# 强化学习笔记参考（Deep Reinforcement Learning）
+# 强化学习基础入门（Reinforcement Learning）
+
+
 ## 在线阅读：https://www.yuque.com/yjlaugus/reinforcement-learning-notes
 ## 文档整合汇编PDF下载：
 
