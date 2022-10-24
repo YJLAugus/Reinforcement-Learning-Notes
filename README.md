@@ -6,7 +6,7 @@
 强化学习，从MDP开始
 
 <div style="text-align: center; height: 100%;">
-<img alt="Cover of book" src="https://raw.githubusercontent.com/YJLAugus/Reinforcement-Learning-Notes/master/Bookcover300.png" style="display: inline-block;" />
+<img alt="Cover of book" src="https://raw.githubusercontent.com/YJLAugus/Reinforcement-Learning-Notes/master/Bookcover300g.png" style="display: inline-block;" />
 </div>
 
 ## 在线阅读
