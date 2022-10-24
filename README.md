@@ -1,9 +1,19 @@
 
 # 强化学习基础入门（Reinforcement Learning）
 
+# Reinforcement-Learning-Notes
 
-## 在线阅读：https://www.yuque.com/yjlaugus/reinforcement-learning-notes
-## 文档整合汇编PDF下载：
+强化学习，从MDP开始
+
+<div style="text-align: center; height: 30%; width: 50%;">
+<img alt="Cover of book" src="https://raw.githubusercontent.com/YJLAugus/Reinforcement-Learning-Notes/master/Bookcover500.png" style="display: inline-block;" />
+</div>
+
+## 在线阅读
+
+https://www.yuque.com/yjlaugus/reinforcement-learning-notes
+
+## 完整书籍
 
 **百度网盘：** 链接: https://pan.baidu.com/s/19QsCpRG8sN3zfzsliuromQ 提取码: xm8w
 
@@ -61,6 +71,5 @@
 
 > https://github.com/shuhuai007/Machine-Learning-Session  讲解透彻|视频
 
-# Reinforcement-Learning-Notes
-强化学习，从MDP 入门开始
+
 
